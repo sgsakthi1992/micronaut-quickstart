@@ -1,6 +1,8 @@
 micronaut:
   application:
     name: micronautQuickstart
+  server:
+    port: 8081
 netty:
   default:
     allocator:
